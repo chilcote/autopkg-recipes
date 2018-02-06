@@ -13,7 +13,7 @@
         <key>NAME</key>
         <string>Docker</string>
         <key>SPARKLE_FEED_URL</key>
-        <string>https://download.docker.com/mac/beta/appcast.xml</string>
+        <string>https://download.docker.com/mac/stable/appcast.xml</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.6.1</string>
